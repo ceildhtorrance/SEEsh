@@ -1,5 +1,5 @@
 Name: Ceilidh Torrance
-V#: V00885432
+Class: CSC 360 - Operating Systems
 
 This is a Shell I wrote for a class I took in my third year of University. It has the ability to execute some basic,
 built in commands such as change directory (cd), print current directory (pwd), set environment variable (set <var> <val>),
